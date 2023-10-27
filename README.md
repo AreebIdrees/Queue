@@ -17,3 +17,10 @@ isEmpty: Checks if the queue is empty.
 isFull: Checks if the queue is full.
 
 peek: Gets an element at the front of the queue without removing it.
+
+Applications
+1)The queue data structure is used in various CPU and disk scheduling. Here we have multiple tasks requiring CPU or disk at the same time. The CPU or disk time is scheduled for each task using a queue.
+
+2)The queue can also be used for print spooling wherein the number of print jobs is placed in a queue.
+
+
